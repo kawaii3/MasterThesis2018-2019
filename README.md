@@ -7,5 +7,8 @@ Rawdata:        all the raw data downloaded from website or aquire from other so
 Graphs:         graphs or figures created in this thesis
 Presentation:   mid-term presentation and final presentation
 Reference:      all the articles used in this thesis
-R:              all R file
+main.R:         script at the root of the project
+R/:             This directory contain functions defined as part of the project. 
+                These functions can be sourced and caleed by main.R script.
 Documents:      thesis contract and templete
+Output:         output
